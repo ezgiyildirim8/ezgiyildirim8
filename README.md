@@ -1,4 +1,4 @@
-# Hi, I'm Ezgi Naz Yildirim
+# Hi, I'm Ezgi Yildirim
 
 I am a Business Administration graduate and currently pursuing a Master's degree in **Business Innovation & Technology** at Bielefeld University of Applied Sciences (HSBI).
 
@@ -18,7 +18,7 @@ I am currently expanding my knowledge in technology, AI-driven solutions, and di
 
 ## Education
 
-- **M.Sc. Business Innovation & Technology** — Bielefeld University of Applied Sciences, Germany
+- **M.A. Business Innovation & Technology** — Bielefeld University of Applied Sciences, Germany
 - **B.A. Business Administration, focus on Human Resources & Organization** — Bielefeld University of Applied Sciences, Germany
 
 ## Experience
